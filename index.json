@@ -1,14 +1,14 @@
 
 {
     "nodes": [{
-                "id": "0654d4b272de179fc372b37592cd3553",
-                "title": "Configuring Virtual Machines (VirtualBox)",
-                "permalink": "https://blog.key-blogger.com/posts/configuringvms/",
+                "id": "f7b914b8eb6ae074245b3412684d2420",
+                "title": "Enumerating subdomains with theHarvester vs Amass",
+                "permalink": "https://blog.key-blogger.com/posts/2theharvester-vs-amass/",
                 "type": "post"
             },{
-                "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                "id": "d693f84ef45050732f87d5b040bef0eb",
                 "title": "My PC Build and vHomelab: A 6-Month Retrospective",
-                "permalink": "https://blog.key-blogger.com/posts/pcbuildhomelab/",
+                "permalink": "https://blog.key-blogger.com/posts/1pcbuildhomelab/",
                 "type": "post"
             },
                         {
@@ -21,6 +21,12 @@
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
                             "permalink": "https://blog.key-blogger.com/tags/cybersecurity/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-enumeration",
+                            "title": "Enumeration",
+                            "permalink": "https://blog.key-blogger.com/tags/enumeration/",
                             "type": "tags"
                         },
                         {
@@ -39,28 +45,32 @@
     "links": [
             
                     {
-                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "source": "f7b914b8eb6ae074245b3412684d2420",
                         "target": "categories-writeups",
                     },
                     {
-                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "source": "f7b914b8eb6ae074245b3412684d2420",
                         "target": "tags-tools",
                     },
                     {
-                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "source": "f7b914b8eb6ae074245b3412684d2420",
+                        "target": "tags-enumeration",
+                    },
+                    {
+                        "source": "f7b914b8eb6ae074245b3412684d2420",
                         "target": "tags-cybersecurity",
                     },
             
                     {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "source": "d693f84ef45050732f87d5b040bef0eb",
                         "target": "categories-writeups",
                     },
                     {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "source": "d693f84ef45050732f87d5b040bef0eb",
                         "target": "tags-homelab",
                     },
                     {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "source": "d693f84ef45050732f87d5b040bef0eb",
                         "target": "tags-cybersecurity",
                     },
     ],
